@@ -11,9 +11,9 @@
         * Ableitung - Wie stark sind die Veränderungen der Pegel
     
 * Durch die wenigen Datenpunkte zuerst einfache ML Methoden ausprobieren
-    * ARIMA/SAMIRA
+    * ARIMA/SAMIRA 
     * MLP
-    * RNN
+    * RNN (Jan)
 
 ### Erste Ergebnisse
 
